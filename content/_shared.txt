@@ -1,0 +1,10 @@
+broswertitle: &times; LINDSEY TESTOLIN!
+-
+keywords: lindsey, testolin, lindsay, portfolio, animation, art, design, minneapolis, mcad, shambot
+-
+description: Lindsey Testolin /// video | animation | performance art
+-
+profession: Graphic Designer
+-
+email: 
+<ltestolin@gmail.com>

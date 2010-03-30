@@ -1,0 +1,3 @@
+page_description: A collection of Joel's graphic design work
+-
+title: My Projects
