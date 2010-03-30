@@ -1,0 +1,146 @@
+body {
+	background-color: #e0e4dc;
+	background-image:url(../images/background.gif);
+	background-repeat:no-repeat;
+	background-position: 875px 0px;
+	font-family: helvetica, verdana, san-serif;
+}
+
+#header {
+	font-weight: bold;
+	font-size: 64px;
+	background-color: #ffffff;
+	width: 500px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+
+#header a:link, #header a:visited {
+	color: #000;
+	text-decoration: none;
+}
+#header a:hover{
+	color: #999;
+}
+
+p {
+	background-color: #ffffff;
+	width: 500px;
+	padding: 10px;
+}
+
+a:link, a:visited {
+	color: #999;
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: blink;
+}
+
+/* div {
+	border: 1px solid red;
+} */
+
+.video_holder, .video_holder2 {
+	display: block;
+	background-color: #ffffff;
+	width: 500px;
+	text-align: left;
+	font-weight: bold;
+	padding: 10px;
+	margin: 10px 10px 10px 0;
+	float: clear;
+}
+.video_holder:first-line, .video_holder2:first-line {
+	font-size: 30px;
+}
+.video_holder2 {
+	position: relative;
+	left: 530px;
+	top: -451px;
+}
+.vid_row {
+	display: block;
+	height: 445px;
+	width: 1050px;
+}
+
+
+.link_holder {
+	display: block;
+	background-color: #ffffff;
+	width: 500px;
+	text-align: left;
+	font-weight: bold;
+	padding: 10px;
+	margin: 10px 10px 10px 0;
+	float: clear;
+}
+.link_holder:first-line {
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.link_holder a:link, .link_holder a:visited {
+	color: #000;
+}
+.link_holder a:hover {
+	color: #999;
+	text-decoration: none;
+} 
+
+.press_holder {
+	display: block;
+	background-color: #ffffff;
+	width: 500px;
+	text-align: left;
+	font-family: georgia, serif;
+	font-weight: normal;
+	font-size: 14px;
+	padding: 10px;
+	margin: 10px 0 20px 0;
+	float: clear;
+}
+.press_holder:first-line {
+	font-size: 30px;
+	font-family: helvetica, verdana, san-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.press_holder a:link, .press_holder a:visited {
+	font-size: 30px;
+	font-family: helvetica, verdana, san-serif;
+	font-weight: bold;
+	color: #000;
+}
+.press_holder a:hover {
+	color: #999;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
