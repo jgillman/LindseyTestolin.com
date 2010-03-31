@@ -29,18 +29,32 @@ p {
 	padding: 10px;
 }
 
+#navigation a, #navigation, #navigation:first-line {
+	font-size: 16px;
+	text-transform: none;
+}
+
+#navigation {
+	padding: 10px 0px 10px 20px;
+}
+
 a:link, a:visited {
 	color: #999;
 	text-decoration: none;
 	font-weight: bold;
 }
 a:hover {
-	text-decoration: blink;
+	
 }
 
 /* div {
 	border: 1px solid red;
 } */
+
+.contact p, .contact p:first-line, .contact a, .contact a:link, .contact a:visited {
+	font-size: 18px;
+	
+}
 
 .video_holder, .video_holder2 {
 	display: block;
@@ -50,7 +64,7 @@ a:hover {
 	font-weight: bold;
 	padding: 10px;
 	margin: 10px 10px 10px 0;
-	float: clear;
+	clear: both;
 }
 .video_holder:first-line, .video_holder2:first-line {
 	font-size: 30px;
@@ -75,7 +89,7 @@ a:hover {
 	font-weight: bold;
 	padding: 10px;
 	margin: 10px 10px 10px 0;
-	float: clear;
+	clear: both;
 }
 .link_holder:first-line {
 	font-size: 30px;
@@ -90,7 +104,7 @@ a:hover {
 	text-decoration: none;
 } 
 
-.press_holder {
+p {
 	display: block;
 	background-color: #ffffff;
 	width: 500px;
@@ -100,21 +114,21 @@ a:hover {
 	font-size: 14px;
 	padding: 10px;
 	margin: 10px 0 20px 0;
-	float: clear;
+	clear: both;
 }
-.press_holder:first-line {
+p:first-line {
 	font-size: 30px;
 	font-family: helvetica, verdana, san-serif;
 	font-weight: bold;
 	text-transform: uppercase;
 }
-.press_holder a:link, .press_holder a:visited {
+p a:link, p a:visited {
 	font-size: 30px;
 	font-family: helvetica, verdana, san-serif;
 	font-weight: bold;
 	color: #000;
 }
-.press_holder a:hover {
+p a:hover {
 	color: #999;
 	text-decoration: none;
 }
