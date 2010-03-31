@@ -9,7 +9,7 @@
 		<meta name="description" content="@description" />
 		<meta name="keywords" content="@keywords" />
 
-		<title>@browser_title</title>
+		<title>@browser_title @page_title</title>
 
 		<link rel="shortcut icon" href="@root_path/favicon.ico" mce_href="@root_path/favicon.ico" />
 
@@ -20,13 +20,11 @@
 			<a href="@root_path">@site_title</a>
 		</div>
 
-		<div id="content">
+		<div id="content" class="contact">
 
 			:navigation
 			
-			if $html do
-				:html
-			endif
+			@content
 			
 		</div>
 		:google_analytics

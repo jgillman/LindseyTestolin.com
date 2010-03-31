@@ -1,0 +1,9 @@
+<p id="navigation">
+	<a href="@root_path">videos</a> +
+	foreach $root do
+		<a href="@url">@slug</a>
+		if !@is_last do
+			+
+		endif
+	endforeach
+</p>
