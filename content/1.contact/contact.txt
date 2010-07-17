@@ -1,8 +1,8 @@
 page_title: - Contact
 -
 content: 
-× [contact](http://vimeo.com/user158274)
+&times; [contact](http://vimeo.com/user158274)
 
-× call. @phone
+&times; call. @phone
 
-× email. @email
+&times; email. @email

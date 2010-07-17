@@ -1,12 +1,12 @@
 page_title: - Links
 -
 content: 
-× [TWITTER](http://twitter.com/xNEUROSPASTA)
+&times; [TWITTER](http://twitter.com/xNEUROSPASTA)
 
-× [BLOG](http://neurospasta.blogspot.com/)
+&times; [BLOG](http://neurospasta.blogspot.com/)
 
-× [VIMEO](http://vimeo.com/user158274)
+&times; [VIMEO](http://vimeo.com/user158274)
 
-× [GOOGLE](http://www.google.com/search?hl=en&safe=off&q=%22lindsey+testolin%22&btnG=Search)
+&times; [GOOGLE](http://www.google.com/search?hl=en&safe=off&q=%22lindsey+testolin%22&btnG=Search)
 
-× [JOEL GILLMAN](http://www.joelgillman.com/)
+&times; [JOEL GILLMAN](http://www.joelgillman.com/)
