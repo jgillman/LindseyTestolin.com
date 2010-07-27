@@ -25,7 +25,12 @@
 			:navigation
 			
 			if $html do
-				:html
+				foreach $html do
+					<div class="video_holder">
+						&times; @name<br />
+						@content
+					</div>
+				endforeach
 			endif
 			
 		</div>
