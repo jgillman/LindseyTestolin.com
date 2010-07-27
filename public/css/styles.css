@@ -1,8 +1,8 @@
 body {
 	background-color: #e0e4dc;
-	background-image:url(../images/background.gif);
-	background-repeat:no-repeat;
-	background-position: 875px 0px;
+	/*background-image:url(../images/background.gif);
+		background-repeat:no-repeat;
+		background-position: 875px 0px;*/
 	font-family: helvetica, verdana, san-serif;
 }
 
@@ -47,6 +47,14 @@ a:hover {
 	
 }
 
+#content:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
 /* div {
 	border: 1px solid red;
 } */
@@ -56,7 +64,7 @@ a:hover {
 	
 }
 
-.video_holder, .video_holder2 {
+.video_holder {
 	display: block;
 	background-color: #ffffff;
 	width: 500px;
@@ -64,22 +72,15 @@ a:hover {
 	font-weight: bold;
 	padding: 10px;
 	margin: 10px 10px 10px 0;
-	clear: both;
+	float: left;
 }
-.video_holder:first-line, .video_holder2:first-line {
+.video_holder:first-line {
 	font-size: 30px;
 }
-.video_holder2 {
-	position: relative;
-	left: 530px;
-	top: -451px;
-}
-.vid_row {
-	display: block;
-	height: 445px;
-	width: 1050px;
-}
 
+.video_holder:nth-child(even) {
+	clear: left;
+}
 
 .link_holder {
 	display: block;
@@ -132,29 +133,3 @@ p a:hover {
 	color: #999;
 	text-decoration: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
