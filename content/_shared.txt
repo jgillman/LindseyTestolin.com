@@ -1,11 +1,16 @@
 browser_title: &times; LINDSEY TESTOLIN!
 -
-keywords: lindsey, testolin, lindsay, portfolio, animation, art, design, minneapolis, mcad, shambot
+keywords: lindsey, testolin, lindsay, portfolio, animation, art, book marketing, film, book trailers, book video, New York
 -
-description: Lindsey Testolin /// video | animation | performance art
+description: Lindsey Testolin /// video | animation | book promotion
 -
 site_title: &times; LINDSEY TESTOLIN!
 -
 email: ltestolin [at] gmail [dot] com
 -
 phone: +1 347 614 1092
+
+
+
+
+
